@@ -20,14 +20,14 @@ import (
 	"errors"
 	"maps"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/rlp"
-	"github.com/ethereum/go-ethereum/trie"
-	"github.com/ethereum/go-ethereum/trie/utils"
-	"github.com/ethereum/go-ethereum/triedb"
-	"github.com/ethereum/go-ethereum/triedb/database"
+	"github.com/dymensionxyz/go-ethereum/common"
+	"github.com/dymensionxyz/go-ethereum/core/types"
+	"github.com/dymensionxyz/go-ethereum/crypto"
+	"github.com/dymensionxyz/go-ethereum/rlp"
+	"github.com/dymensionxyz/go-ethereum/trie"
+	"github.com/dymensionxyz/go-ethereum/trie/utils"
+	"github.com/dymensionxyz/go-ethereum/triedb"
+	"github.com/dymensionxyz/go-ethereum/triedb/database"
 )
 
 // Reader defines the interface for accessing accounts and storage slots

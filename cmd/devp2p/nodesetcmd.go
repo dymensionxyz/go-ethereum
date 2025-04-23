@@ -25,11 +25,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/core/forkid"
-	"github.com/ethereum/go-ethereum/p2p/enr"
-	"github.com/ethereum/go-ethereum/params"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/dymensionxyz/go-ethereum/core"
+	"github.com/dymensionxyz/go-ethereum/core/forkid"
+	"github.com/dymensionxyz/go-ethereum/p2p/enr"
+	"github.com/dymensionxyz/go-ethereum/params"
+	"github.com/dymensionxyz/go-ethereum/rlp"
 	"github.com/urfave/cli/v2"
 )
 

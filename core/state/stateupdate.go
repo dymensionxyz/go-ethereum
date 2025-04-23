@@ -17,10 +17,10 @@
 package state
 
 import (
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/trie/trienode"
-	"github.com/ethereum/go-ethereum/triedb"
+	"github.com/dymensionxyz/go-ethereum/common"
+	"github.com/dymensionxyz/go-ethereum/core/types"
+	"github.com/dymensionxyz/go-ethereum/trie/trienode"
+	"github.com/dymensionxyz/go-ethereum/triedb"
 )
 
 // contractCode represents a contract code with associated metadata.

@@ -17,16 +17,16 @@
 package blsync
 
 import (
-	"github.com/ethereum/go-ethereum/beacon/light"
-	"github.com/ethereum/go-ethereum/beacon/light/api"
-	"github.com/ethereum/go-ethereum/beacon/light/request"
-	"github.com/ethereum/go-ethereum/beacon/light/sync"
-	"github.com/ethereum/go-ethereum/beacon/params"
-	"github.com/ethereum/go-ethereum/beacon/types"
-	"github.com/ethereum/go-ethereum/common/mclock"
-	"github.com/ethereum/go-ethereum/ethdb/memorydb"
-	"github.com/ethereum/go-ethereum/event"
-	"github.com/ethereum/go-ethereum/rpc"
+	"github.com/dymensionxyz/go-ethereum/beacon/light"
+	"github.com/dymensionxyz/go-ethereum/beacon/light/api"
+	"github.com/dymensionxyz/go-ethereum/beacon/light/request"
+	"github.com/dymensionxyz/go-ethereum/beacon/light/sync"
+	"github.com/dymensionxyz/go-ethereum/beacon/params"
+	"github.com/dymensionxyz/go-ethereum/beacon/types"
+	"github.com/dymensionxyz/go-ethereum/common/mclock"
+	"github.com/dymensionxyz/go-ethereum/ethdb/memorydb"
+	"github.com/dymensionxyz/go-ethereum/event"
+	"github.com/dymensionxyz/go-ethereum/rpc"
 )
 
 type Client struct {
