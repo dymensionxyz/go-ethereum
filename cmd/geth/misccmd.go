@@ -23,9 +23,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ethereum/go-ethereum/cmd/utils"
-	"github.com/ethereum/go-ethereum/consensus/ethash"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/dymensionxyz/go-ethereum/cmd/utils"
+	"github.com/dymensionxyz/go-ethereum/consensus/ethash"
+	"github.com/dymensionxyz/go-ethereum/params"
 	"github.com/urfave/cli/v2"
 )
 

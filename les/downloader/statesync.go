@@ -21,12 +21,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/state"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/trie"
+	"github.com/dymensionxyz/go-ethereum/common"
+	"github.com/dymensionxyz/go-ethereum/core/state"
+	"github.com/dymensionxyz/go-ethereum/crypto"
+	"github.com/dymensionxyz/go-ethereum/ethdb"
+	"github.com/dymensionxyz/go-ethereum/log"
+	"github.com/dymensionxyz/go-ethereum/trie"
 	"golang.org/x/crypto/sha3"
 )
 

@@ -21,15 +21,15 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/light"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/metrics"
-	"github.com/ethereum/go-ethereum/p2p"
-	"github.com/ethereum/go-ethereum/p2p/enode"
-	"github.com/ethereum/go-ethereum/p2p/enr"
-	"github.com/ethereum/go-ethereum/trie"
+	"github.com/dymensionxyz/go-ethereum/common"
+	"github.com/dymensionxyz/go-ethereum/core"
+	"github.com/dymensionxyz/go-ethereum/light"
+	"github.com/dymensionxyz/go-ethereum/log"
+	"github.com/dymensionxyz/go-ethereum/metrics"
+	"github.com/dymensionxyz/go-ethereum/p2p"
+	"github.com/dymensionxyz/go-ethereum/p2p/enode"
+	"github.com/dymensionxyz/go-ethereum/p2p/enr"
+	"github.com/dymensionxyz/go-ethereum/trie"
 )
 
 const (

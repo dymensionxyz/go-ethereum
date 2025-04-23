@@ -23,13 +23,13 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/ethereum/go-ethereum/common/mclock"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/metrics"
-	"github.com/ethereum/go-ethereum/p2p/enode"
-	"github.com/ethereum/go-ethereum/p2p/enr"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/dymensionxyz/go-ethereum/common/mclock"
+	"github.com/dymensionxyz/go-ethereum/ethdb"
+	"github.com/dymensionxyz/go-ethereum/log"
+	"github.com/dymensionxyz/go-ethereum/metrics"
+	"github.com/dymensionxyz/go-ethereum/p2p/enode"
+	"github.com/dymensionxyz/go-ethereum/p2p/enr"
+	"github.com/dymensionxyz/go-ethereum/rlp"
 )
 
 var (

@@ -25,12 +25,12 @@ import (
 
 	"github.com/dop251/goja"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/core/vm"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/eth/tracers"
-	jsassets "github.com/ethereum/go-ethereum/eth/tracers/js/internal/tracers"
+	"github.com/dymensionxyz/go-ethereum/common"
+	"github.com/dymensionxyz/go-ethereum/common/hexutil"
+	"github.com/dymensionxyz/go-ethereum/core/vm"
+	"github.com/dymensionxyz/go-ethereum/crypto"
+	"github.com/dymensionxyz/go-ethereum/eth/tracers"
+	jsassets "github.com/dymensionxyz/go-ethereum/eth/tracers/js/internal/tracers"
 )
 
 var assetTracers = make(map[string]string)

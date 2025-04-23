@@ -20,11 +20,11 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/ethereum/go-ethereum/cmd/utils"
-	"github.com/ethereum/go-ethereum/console"
-	"github.com/ethereum/go-ethereum/internal/flags"
-	"github.com/ethereum/go-ethereum/node"
-	"github.com/ethereum/go-ethereum/rpc"
+	"github.com/dymensionxyz/go-ethereum/cmd/utils"
+	"github.com/dymensionxyz/go-ethereum/console"
+	"github.com/dymensionxyz/go-ethereum/internal/flags"
+	"github.com/dymensionxyz/go-ethereum/node"
+	"github.com/dymensionxyz/go-ethereum/rpc"
 	"github.com/urfave/cli/v2"
 )
 
